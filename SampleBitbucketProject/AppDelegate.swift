@@ -17,6 +17,8 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
         // Override point for customization after application launch.
         print("csacas")
         var testVar = "casca"
+        var fff: String?
+        print(fff!)
         return true
     }
 
