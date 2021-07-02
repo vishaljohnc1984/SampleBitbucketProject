@@ -12,6 +12,10 @@ struct ContentView: View {
     var body: some View {
         Text("Hello, Github world")
     }
+    
+    var body: some View {
+        Text("Hello, Github world2")
+    }
 }
 
 struct ContentView_Previews: PreviewProvider {
