@@ -18,7 +18,6 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
         print("csacas")
         var testVar = "casca"
         var fff: String?
-        print(fff!)
         return true
     }
 
