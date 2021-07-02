@@ -19,6 +19,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
         var testVar = "casca"
         var fff: String?
         var testVarw = "casca"
+        var testVarws = "casca"
         return true
     }
 
