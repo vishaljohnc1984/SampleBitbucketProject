@@ -20,6 +20,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
         var fff: String?
         var testVarw = "casca"
         var testVarws = "casca"
+        var testVewearws = "casca"
         var testVarwdd: String?
         print(testVarwdd!)
         return true
