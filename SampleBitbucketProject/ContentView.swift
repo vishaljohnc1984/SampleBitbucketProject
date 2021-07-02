@@ -13,7 +13,7 @@ struct ContentView: View {
         Text("Hello, Github world")
     }
     
-    var body: some View {
+    var body2: some View {
         Text("Hello, Github world2")
     }
 }
